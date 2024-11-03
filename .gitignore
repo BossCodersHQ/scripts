@@ -1,0 +1,17 @@
+.venv/
+*.iml
+.idea/
+__pycache__/
+scratch.py
+
+# Temporary files
+temp/
+tmp/
+
+# Ignore all .env files
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
