@@ -1,0 +1,101 @@
+Day,Question Name,Leet Code Link,Neet Code Link,Difficulty,Category
+1,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,https://neetcode.io/problems/duplicate-integer,Easy,Arrays & Hashing
+2,Valid Anagram,https://leetcode.com/problems/valid-anagram/,https://neetcode.io/problems/is-anagram,Easy,Arrays & Hashing
+3,Two Sum,https://leetcode.com/problems/two-sum/,https://neetcode.io/problems/two-integer-sum,Easy,Arrays & Hashing
+4,Group Anagrams,https://leetcode.com/problems/group-anagrams/,https://neetcode.io/problems/anagram-groups,Medium,Arrays & Hashing
+5,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,https://neetcode.io/problems/top-k-elements-in-list,Medium,Arrays & Hashing
+6,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,https://neetcode.io/problems/string-encode-and-decode,Medium,Arrays & Hashing
+7,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,https://neetcode.io/problems/trapping-rain-water,Hard,Two Pointers
+8,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,https://neetcode.io/problems/minimum-window-with-characters,Hard,Sliding Window
+9,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,https://neetcode.io/problems/sliding-window-maximum,Hard,Sliding Window
+10,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,https://neetcode.io/problems/is-palindrome,Easy,Two Pointers
+11,Best Time to Buy And Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,https://neetcode.io/problems/buy-and-sell-crypto,Easy,Sliding Window
+12,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,https://neetcode.io/problems/validate-parentheses,Easy,Stack
+13,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,https://neetcode.io/problems/products-of-array-discluding-self,Medium,Arrays & Hashing
+14,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,https://neetcode.io/problems/valid-sudoku,Medium,Arrays & Hashing
+15,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,https://neetcode.io/problems/longest-consecutive-sequence,Medium,Arrays & Hashing
+16,Largest Rectangle In Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,https://neetcode.io/problems/largest-rectangle-in-histogram,Hard,Stack
+17,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,https://neetcode.io/problems/median-of-two-sorted-arrays,Hard,Binary Search
+18,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,https://neetcode.io/problems/merge-k-sorted-linked-lists,Hard,Linked List
+19,Binary Search,https://leetcode.com/problems/binary-search/,https://neetcode.io/problems/binary-search,Easy,Binary Search
+20,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,https://neetcode.io/problems/reverse-a-linked-list,Easy,Linked List
+21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,https://neetcode.io/problems/merge-two-sorted-linked-lists,Easy,Linked List
+22,Two Sum II Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,https://neetcode.io/problems/two-integer-sum-ii,Medium,Two Pointers
+23,3Sum,https://leetcode.com/problems/3sum/,https://neetcode.io/problems/three-integer-sum,Medium,Two Pointers
+24,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,https://neetcode.io/problems/max-water-container,Medium,Two Pointers
+25,Reverse Nodes In K Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,https://neetcode.io/problems/reverse-nodes-in-k-group,Hard,Linked List
+26,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,https://neetcode.io/problems/binary-tree-maximum-path-sum,Hard,Trees
+27,Serialize And Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,https://neetcode.io/problems/serialize-and-deserialize-binary-tree,Hard,Trees
+28,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,https://neetcode.io/problems/linked-list-cycle-detection,Easy,Linked List
+29,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,https://neetcode.io/problems/invert-a-binary-tree,Easy,Trees
+30,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,https://neetcode.io/problems/depth-of-binary-tree,Easy,Trees
+31,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,https://neetcode.io/problems/longest-substring-without-duplicates,Medium,Sliding Window
+32,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,https://neetcode.io/problems/longest-repeating-substring-with-replacement,Medium,Sliding Window
+33,Permutation In String,https://leetcode.com/problems/permutation-in-string/,https://neetcode.io/problems/permutation-string,Medium,Sliding Window
+34,Find Median From Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,https://neetcode.io/problems/find-median-in-a-data-stream,Hard,Heap / Priority Queue
+35,N Queens,https://leetcode.com/problems/n-queens/,https://neetcode.io/problems/n-queens,Hard,Backtracking
+36,Word Search II,https://leetcode.com/problems/word-search-ii/,https://neetcode.io/problems/search-for-word-ii,Hard,Tries
+37,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,https://neetcode.io/problems/binary-tree-diameter,Easy,Trees
+38,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,https://neetcode.io/problems/balanced-binary-tree,Easy,Trees
+39,Same Tree,https://leetcode.com/problems/same-tree/,https://neetcode.io/problems/same-binary-tree,Easy,Trees
+40,Min Stack,https://leetcode.com/problems/min-stack/,https://neetcode.io/problems/minimum-stack,Medium,Stack
+41,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,https://neetcode.io/problems/evaluate-reverse-polish-notation,Medium,Stack
+42,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,https://neetcode.io/problems/generate-parentheses,Medium,Stack
+43,Word Ladder,https://leetcode.com/problems/word-ladder/,https://neetcode.io/problems/word-ladder,Hard,Graphs
+44,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,https://neetcode.io/problems/reconstruct-flight-path,Hard,Advanced Graphs
+45,Swim In Rising Water,https://leetcode.com/problems/swim-in-rising-water/,https://neetcode.io/problems/swim-in-rising-water,Hard,Advanced Graphs
+46,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,https://neetcode.io/problems/subtree-of-a-binary-tree,Easy,Trees
+47,Kth Largest Element In a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,https://neetcode.io/problems/kth-largest-integer-in-a-stream,Easy,Heap / Priority Queue
+48,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,https://neetcode.io/problems/last-stone-weight,Easy,Heap / Priority Queue
+49,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,https://neetcode.io/problems/daily-temperatures,Medium,Stack
+50,Car Fleet,https://leetcode.com/problems/car-fleet/,https://neetcode.io/problems/car-fleet,Medium,Stack
+51,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,https://neetcode.io/problems/search-2d-matrix,Medium,Binary Search
+52,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,https://neetcode.io/problems/foreign-dictionary,Hard,Advanced Graphs
+53,Longest Increasing Path In a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,https://neetcode.io/problems/longest-increasing-path-in-matrix,Hard,2-D Dynamic Programming
+54,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,https://neetcode.io/problems/count-subsequences,Hard,2-D Dynamic Programming
+55,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,https://neetcode.io/problems/climbing-stairs,Easy,1-D Dynamic Programming
+56,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,https://neetcode.io/problems/min-cost-climbing-stairs,Easy,1-D Dynamic Programming
+57,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,https://neetcode.io/problems/meeting-schedule,Easy,Intervals
+58,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,https://neetcode.io/problems/eating-bananas,Medium,Binary Search
+59,Find Minimum In Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,https://neetcode.io/problems/find-minimum-in-rotated-sorted-array,Medium,Binary Search
+60,Search In Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,https://neetcode.io/problems/find-target-in-rotated-sorted-array,Medium,Binary Search
+61,Burst Balloons,https://leetcode.com/problems/burst-balloons/,https://neetcode.io/problems/burst-balloons,Hard,2-D Dynamic Programming
+62,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,https://neetcode.io/problems/regular-expression-matching,Hard,2-D Dynamic Programming
+63,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,https://neetcode.io/problems/minimum-interval-including-query,Hard,Intervals
+64,Happy Number,https://leetcode.com/problems/happy-number/,https://neetcode.io/problems/non-cyclical-number,Easy,Math & Geometry
+65,Plus One,https://leetcode.com/problems/plus-one/,https://neetcode.io/problems/plus-one,Easy,Math & Geometry
+66,Single Number,https://leetcode.com/problems/single-number/,https://neetcode.io/problems/single-number,Easy,Bit Manipulation
+67,Time Based Key Value Store,https://leetcode.com/problems/time-based-key-value-store/,https://neetcode.io/problems/time-based-key-value-store,Medium,Binary Search
+68,Reorder List,https://leetcode.com/problems/reorder-list/,https://neetcode.io/problems/reorder-linked-list,Medium,Linked List
+69,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,https://neetcode.io/problems/remove-node-from-end-of-linked-list,Medium,Linked List
+70,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,https://neetcode.io/problems/number-of-one-bits,Easy,Bit Manipulation
+71,Counting Bits,https://leetcode.com/problems/counting-bits/,https://neetcode.io/problems/counting-bits,Easy,Bit Manipulation
+72,Reverse Bits,https://leetcode.com/problems/reverse-bits/,https://neetcode.io/problems/reverse-bits,Easy,Bit Manipulation
+73,Copy List With Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,https://neetcode.io/problems/copy-linked-list-with-random-pointer,Medium,Linked List
+74,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,https://neetcode.io/problems/add-two-numbers,Medium,Linked List
+75,Find The Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,https://neetcode.io/problems/find-duplicate-integer,Medium,Linked List
+76,Missing Number,https://leetcode.com/problems/missing-number/,https://neetcode.io/problems/missing-number,Easy,Bit Manipulation
+77,LRU Cache,https://leetcode.com/problems/lru-cache/,https://neetcode.io/problems/lru-cache,Medium,Linked List
+78,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree,Medium,Trees
+79,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,https://neetcode.io/problems/level-order-traversal-of-binary-tree,Medium,Trees
+80,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,https://neetcode.io/problems/binary-tree-right-side-view,Medium,Trees
+81,Count Good Nodes In Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,https://neetcode.io/problems/count-good-nodes-in-binary-tree,Medium,Trees
+82,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,https://neetcode.io/problems/valid-binary-search-tree,Medium,Trees
+83,Kth Smallest Element In a Bst,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,https://neetcode.io/problems/kth-smallest-integer-in-bst,Medium,Trees
+84,Construct Binary Tree From Preorder And Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,https://neetcode.io/problems/binary-tree-from-preorder-and-inorder-traversal,Medium,Trees
+85,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,https://neetcode.io/problems/k-closest-points-to-origin,Medium,Heap / Priority Queue
+86,Kth Largest Element In An Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,https://neetcode.io/problems/kth-largest-element-in-an-array,Medium,Heap / Priority Queue
+87,Task Scheduler,https://leetcode.com/problems/task-scheduler/,https://neetcode.io/problems/task-scheduling,Medium,Heap / Priority Queue
+88,Design Twitter,https://leetcode.com/problems/design-twitter/,https://neetcode.io/problems/design-twitter-feed,Medium,Heap / Priority Queue
+89,Subsets,https://leetcode.com/problems/subsets/,https://neetcode.io/problems/subsets,Medium,Backtracking
+90,Combination Sum,https://leetcode.com/problems/combination-sum/,https://neetcode.io/problems/combination-target-sum,Medium,Backtracking
+91,Permutations,https://leetcode.com/problems/permutations/,https://neetcode.io/problems/permutations,Medium,Backtracking
+92,Subsets II,https://leetcode.com/problems/subsets-ii/,https://neetcode.io/problems/subsets-ii,Medium,Backtracking
+93,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,https://neetcode.io/problems/combination-target-sum-ii,Medium,Backtracking
+94,Word Search,https://leetcode.com/problems/word-search/,https://neetcode.io/problems/search-for-word,Medium,Backtracking
+95,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,https://neetcode.io/problems/palindrome-partitioning,Medium,Backtracking
+96,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,https://neetcode.io/problems/combinations-of-a-phone-number,Medium,Backtracking
+97,Implement Trie Prefix Tree,https://leetcode.com/problems/implement-trie-prefix-tree/,https://neetcode.io/problems/implement-prefix-tree,Medium,Tries
+98,Design Add And Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,https://neetcode.io/problems/design-word-search-data-structure,Medium,Tries
+99,Number of Islands,https://leetcode.com/problems/number-of-islands/,https://neetcode.io/problems/count-number-of-islands,Medium,Graphs
+100,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,https://neetcode.io/problems/max-area-of-island,Medium,Graphs
