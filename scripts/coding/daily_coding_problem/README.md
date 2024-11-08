@@ -5,6 +5,11 @@ This module provides scripts to parse and generate a daily practice schedule for
 1. `parsing_neetcode_questions.py`: Parses the NeetCode questions from an HTML file and generates a JSON file.
 2. `generate_problems_csv.py`: Generates a CSV file with a daily practice schedule based on the parsed questions.
 
+It also involves the following assets:
+
+- `neetcode_questions.html`: HTML file containing the NeetCode questions scraped using developer tools and a shoddy regex😁😅.
+- `email-template.html`: HTML template for the daily practice schedule email.
+
 ## Workflow
 
 ### Step 1: Parse NeetCode Questions

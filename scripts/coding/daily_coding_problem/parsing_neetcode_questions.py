@@ -1,12 +1,14 @@
-from bs4 import BeautifulSoup
 import json
-from pathlib import Path
 import os
-from scripts.coding.daily_coding_problem import get_data_dir
+from pathlib import Path
+
+from bs4 import BeautifulSoup
+
+from scripts.coding.daily_coding_problem import get_assets_dir, get_output_dir
 from scripts.coding.daily_coding_problem.schemas import NeetCodeProblem
 from scripts.utils.os import get_curr_dir
 
-html_file_path = get_data_dir() / "neetcode-150-questions.html"
+html_file_path = get_assets_dir() / "neetcode-150-questions.html"
 
 # Load and parse the HTML file
 with open(html_file_path, "r") as f:
@@ -46,7 +48,7 @@ for category, table in zip(categories, tables):
 
 problems_json = json.dumps(problems)
 
-output_file_path = get_data_dir() / "neetcode-problems.json"
+output_file_path = get_output_dir() / "neetcode-problems.json"
 with open(output_file_path, "w") as f:
     f.write(problems_json)
 
